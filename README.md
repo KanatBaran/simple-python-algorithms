@@ -23,3 +23,5 @@ Bu depo, Python ile hazırlanmış basit programlama alıştırmalarının çöz
 - **vize-final-notu-hesaplama-python-main**  
   Vize ve final notlarına göre ağırlıklı ortalama hesaplayarak başarı durumunu belirler.
 
+## 📬 Contact
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
