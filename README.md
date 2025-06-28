@@ -23,12 +23,3 @@ Bu depo, Python ile hazırlanmış basit programlama alıştırmalarının çöz
 - **vize-final-notu-hesaplama-python-main**  
   Vize ve final notlarına göre ağırlıklı ortalama hesaplayarak başarı durumunu belirler.
 
-## Gereksinimler
-
-- Python 3.x
-
-## Kullanım
-
-1. Depoyu klonlayın:  
-   ```bash
-   git clone https://github.com/<kullanici_adiniz>/python-temel-ornekler.git
